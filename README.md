@@ -1,14 +1,16 @@
 # AceBook
 by JAANIS
 
-1. [You can find the engineering project outline here.](https://github.com/makersacademy/course/tree/master/engineering_projects/rails)
+1. [You can visit the website here.](https://acebook-jaanis-natasha.herokuapp.com/)
+
+2. [You can find the engineering project outline here.](https://github.com/makersacademy/course/tree/master/engineering_projects/rails)
 
 Jaanis' Code Climate Link:
 https://codeclimate.com/github/Aracho1/acebook-JAANIS
 
 REQUIRED INSTRUCTIONS:
 
-2. [The card wall is here.](https://trello.com/b/mU9Va6vg/team)
+3. [The card wall is here.](https://trello.com/b/mU9Va6vg/team)
 
 ## How to contribute to this project
 See [CONTRIBUTING.md](CONTRIBUTING.md)
@@ -93,5 +95,3 @@ end
 migration files for drop tables will need to be deleted once everyone (including Heroku) has run db:migrate
 
 a line of code in the create posts method in the posts controller will need to be changed once we can store user details. At the moment a new user is created when a new post is created - obvs not ideal!
-
-
